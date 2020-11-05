@@ -1,3 +1,4 @@
+//spherical distance between two points, took 45 min to code
 import java.util.Scanner;
 import java.text.DecimalFormat;
 class sphere{
