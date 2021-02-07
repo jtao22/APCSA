@@ -1,4 +1,4 @@
-//Implementation of Bubble Sort on Objects
+//Implementation of Bubble Sort on Objects, took 45 minutes to code
 import java.io.*; 
 import java.util.*; 
 import java.text.DecimalFormat;
