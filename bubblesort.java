@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*; 
 import java.text.*;
 
-class BubbleSort{
+class bubblesort{
 	public static int count = 0;
 	public static void sort(int[] arr){
 		System.out.print("[");
