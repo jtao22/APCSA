@@ -1,7 +1,7 @@
 //computes radiant flux given wavelength, temperature, took 30 min to code
 import java.util.Scanner;
 import java.text.DecimalFormat;
-class PEEB1 {
+class peeb1 {
   public static double hcOverK = 0.0143876515, hcsq = 1.19104292,lambda, temp,oneoverLT,eraised,B;
   public static void main(String[] args) {
      Scanner input = new Scanner(System.in);
