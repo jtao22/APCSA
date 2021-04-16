@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*; 
 import java.text.*;
 
-class SelectionSort{
+class selectionsort{
 	public static void main(String[] args){
 		Scanner console = new Scanner(System.in);
 		int[] arr = new int[10];
